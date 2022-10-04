@@ -1,3 +1,15 @@
+<div align="center">
+ 
+  <img src="https://plataforma.campinhodigital.org/user/assets/images/logo-campinho.png" alt="">
+  <h1>Projeto Integrador</h1>
+ <p>Esse repositorio é destinado ao protótipo que eu fiz, e a baixo tem uma documentação que criei da API do trabalho, para um entendimendo mais claro de cada etapa do processo!</P>
+ </div>
+
+ 
+ 
+
+
+
 ## 1- Instalar o node 
 ~~~~
 - npm init -y
@@ -340,6 +352,16 @@ ATENÇÃO: Note que não usamos arroy function, por algum motivo estavadando err
 ## 31 - Verifcar no mongodb como está acriptografia!
 
 ## 32 - Agora fazer outras rotas usando esse mesmo modelo!
+
+
+<div align="center" >
+ <p>Por Abner Santos</P>
+ </div>
+ 
+
+
+
+
 
 
 
