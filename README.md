@@ -2,7 +2,7 @@
  
   <img src="https://plataforma.campinhodigital.org/user/assets/images/logo-campinho.png" alt="">
   <h1>Projeto Integrador</h1>
- <p>Esse repositorio é destinado ao protótipo que eu fiz, e a baixo tem uma documentação que criei da API do trabalho, para um entendimendo mais claro de cada etapa do processo!</P>
+ <p>Esse repositorio é destinado ao protótipo que eu fiz de Um Crud API rest com node, express, mongodb e o bcrypt! No pasoa apasso a baixo tem uma documentação que criei da API do trabalho, para um entendimendo mais claro de cada etapa do processo!, des da instalação dos pacotes até a ultima  criptografia de senha!</P>
  </div>
 
  
